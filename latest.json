@@ -1,0 +1,6 @@
+{
+  "versao": "2.65",
+  "notas": "Assinado com a chave antiga (debug) — atualiza por cima de qualquer instalação anterior também com a chave antiga, sem pedir nada.\n\nTraz a correção da permissão de desinstalar (REQUEST_DELETE_PACKAGES) para quem ainda não migrou de chave.",
+  "urlApk": "https://github.com/joseaugustosa/TDS-releases/releases/download/v2.65/TDS-v2.65.apk",
+  "urlPagina": "https://github.com/joseaugustosa/TDS-releases/releases/tag/v2.65"
+}
