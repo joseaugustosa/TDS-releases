@@ -1,6 +1,6 @@
 {
-  "versao": "2.66",
-  "notas": "Migração para a nova chave de assinatura — a app vai pedir para desinstalar a versão antiga e guia-te a instalar esta manualmente (com cópia de segurança automática antes de tudo). Na primeira abertura, pergunta se queres importar essa cópia de segurança.",
-  "urlApk": "https://github.com/joseaugustosa/TDS-releases/releases/download/v2.66/TDS-v2.66.apk",
-  "urlPagina": "https://github.com/joseaugustosa/TDS-releases/releases/tag/v2.66"
+  "versao": "2.67",
+  "notas": "Corrige o cálculo das refeições do dia de chegada: já não usa a tabela Internacional — paga cada refeição (pequeno-almoço/almoço/jantar) pela tabela certa (Ibérico antes de cruzar a fronteira de volta, Nacional depois), mesmo havendo refeições dos dois tipos no mesmo dia.",
+  "urlApk": "https://github.com/joseaugustosa/TDS-releases/releases/download/v2.67/TDS-v2.67.apk",
+  "urlPagina": "https://github.com/joseaugustosa/TDS-releases/releases/tag/v2.67"
 }
